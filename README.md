@@ -56,14 +56,22 @@ content/                    Sources des ebooks (Markdown → PDF)
 public/ebooks/               PDF vendus en boutique
 ```
 
-## Contenu à compléter
+## Contenu
 
-- `public/ebooks/50-astuces-calcul.pdf` et `20-jeux-maths.pdf` sont des
-  placeholders — remplacer par de vrais fichiers (voir
-  `public/ebooks/README.txt`). `power-of-positivity.pdf` est déjà généré.
+- Les 3 ebooks (`power-of-positivity.pdf`, `50-astuces-calcul.pdf`,
+  `20-jeux-maths.pdf`) sont rédigés et générés dans `public/ebooks/`. Sources
+  Markdown dans `content/` (pipeline : pandoc → HTML stylé → PDF via Chrome
+  headless).
 - La section BAC (`src/lib/bacResources.ts`) couvre 9 pays avec des liens
   vers des sources externes vérifiées ; l'étendre à d'autres pays/années est
   un travail continu.
+
+## À faire par toi (nécessite tes identifiants personnels)
+
+- Renseigner `STRIPE_SECRET_KEY` / `NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY` dans
+  `.env.local` (compte Stripe requis)
+- Renseigner `ANTHROPIC_API_KEY` dans `.env.local` (compte Anthropic requis)
+- Créer un compte Vercel ou Netlify pour déployer le site en ligne
 
 ## Déploiement
 
