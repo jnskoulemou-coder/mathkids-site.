@@ -22,7 +22,7 @@ Maths pour enfants 🧮 | Ebooks parents 📚 | Révisions BAC 🎓
 
 ### Facebook (description courte, ~255 caractères)
 ```
-Marc AI — une app de maths ludique pour les enfants (CP-CE1), des
+Jonas AI — une app de maths ludique pour les enfants (CP-CE1), des
 ebooks pratiques pour les parents, et des ressources gratuites de révision
 du Baccalauréat pour l'Afrique francophone, avec correction de sujets par
 IA.
@@ -30,7 +30,7 @@ IA.
 
 ### Facebook (section "À propos" détaillée)
 ```
-Marc AI est une plateforme éducative pensée pour trois publics :
+Jonas AI est une plateforme éducative pensée pour trois publics :
 
 🧮 Les enfants du primaire, avec une app de maths gratuite et ludique
 (niveau CP et CE1, avec progression et récompenses).
