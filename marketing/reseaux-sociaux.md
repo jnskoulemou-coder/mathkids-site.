@@ -88,13 +88,30 @@ besoin de trois contenus différents au départ.
 
 ## Premiers posts prêts à l'emploi
 
-### Post de lancement (à publier en premier, sur toutes les plateformes)
+### Calendrier de publication Facebook (Jonas AI, via Meta Business Suite)
+
+| # | Date | Post |
+|---|---|---|
+| 1 | 13/07 | Post de lancement |
+| 2 | 15/07 | Astuce calcul (×5) |
+| 3 | 17/07 | Présentation de l'app |
+| 4 | 20/07 | Extrait ebook "50 astuces" |
+| 5 | 22/07 | BAC / outil IA |
+| 6 | 24/07 | Question engageante |
+| 7 | 27/07 | Témoignage parent |
+| 8 | 29/07 | Jeu maison |
+
+Programmation : Meta Business Suite → "Create post" → flèche à côté de
+"Publish" → choisir la date/heure.
+
+### Post de lancement (Jonas AI — Facebook)
 ```
-🎉 MathKids & Cie est en ligne !
+🎉 Jonas AI est en ligne !
 
 Une app de maths gratuite et ludique pour les enfants (CP-CE1) 🧮
 Des ebooks pratiques pour accompagner votre enfant 📚
-Et des ressources gratuites pour réviser le BAC en Afrique francophone 🎓
+Et des ressources gratuites pour réviser le BAC en Afrique francophone,
+avec correction de sujets par IA 🎓
 
 Lien dans la bio 👆
 ```
