@@ -1,13 +1,23 @@
-# MathKids & Cie — Kit réseaux sociaux
+# Jonas AI / MathKids & Cie — Kit réseaux sociaux
 
-Nom de marque cohérent partout : **MathKids & Cie**
-Handle suggéré (à vérifier disponibilité) : `@mathkidsetcie` (ou `@mathkids.cie` si pris)
+Site multi-fonction avec 3 volets : **App Maths (enfants)**, **Boutique
+Ebooks (parents)**, **BAC Afrique francophone (élèves 1ère/Terminale et
+niveaux équivalents)**. Ce document est organisé en sections indépendantes
+— une par usage.
 
 ---
 
-## Bios / descriptions par plateforme
+## 1. Identité de marque
 
-### Instagram (150 caractères max)
+- **Facebook** : "Jonas AI"
+- **Autres plateformes (Instagram, TikTok, YouTube)** : "MathKids & Cie"
+- Handle suggéré : `@mathkidsetcie` (à vérifier disponibilité)
+
+---
+
+## 2. Bios / descriptions par plateforme
+
+### 2.1 Instagram (150 caractères max)
 ```
 🧮 App de maths ludique pour enfants
 📚 Ebooks pratiques pour parents
@@ -15,20 +25,17 @@ Handle suggéré (à vérifier disponibilité) : `@mathkidsetcie` (ou `@mathkids
 👇 Tout est ici
 ```
 
-### TikTok (80 caractères max)
+### 2.2 TikTok (80 caractères max)
 ```
 Maths pour enfants 🧮 | Ebooks parents 📚 | Révisions BAC 🎓
 ```
 
-### Facebook (description courte, ~255 caractères)
+### 2.3 Facebook — description courte
 ```
-Jonas AI — une app de maths ludique pour les enfants (CP-CE1), des
-ebooks pratiques pour les parents, et des ressources gratuites de révision
-du Baccalauréat pour l'Afrique francophone, avec correction de sujets par
-IA.
+Jonas AI : app de maths ludique pour enfants (CP-CE1), ebooks pratiques pour parents, et révisions BAC gratuites en Afrique francophone — envoie n'importe quel sujet en photo ou PDF, notre IA le corrige en détail.
 ```
 
-### Facebook (section "À propos" détaillée)
+### 2.4 Facebook — section "À propos" détaillée
 ```
 Jonas AI est une plateforme éducative pensée pour trois publics :
 
@@ -38,14 +45,15 @@ Jonas AI est une plateforme éducative pensée pour trois publics :
 📚 Les parents, avec des ebooks pratiques pour accompagner leurs enfants
 au quotidien.
 
-🎓 Les élèves préparant le Baccalauréat en Afrique francophone, avec un
-répertoire de sujets d'examens vérifiés et un outil de correction
-automatique par IA pour s'entraîner sur n'importe quel exercice.
+🎓 Les élèves de 1ère, Terminale (BAC) et niveaux équivalents en Afrique
+francophone, avec un répertoire de sujets d'examens vérifiés et un outil
+de correction automatique par IA pour s'entraîner sur n'importe quel
+exercice.
 
 Site : [ton URL une fois déployé]
 ```
 
-### YouTube (description de chaîne)
+### 2.5 YouTube — description de chaîne
 ```
 MathKids & Cie — apprendre les maths sans stress, du CP au Baccalauréat.
 
@@ -62,61 +70,133 @@ Nouvelles vidéos chaque semaine.
 
 ---
 
-## Plan de contenu
+## 3. Stratégie de contenu
 
-### Les 3 piliers de contenu (à répartir sur toutes les plateformes)
+### 3.1 Les piliers
 
-| Pilier | Objectif | Exemples de formats |
-|---|---|---|
-| **Astuces maths enfants** | Attirer les parents, montrer l'app | Astuce de calcul en 30s, mini-défi maths, capture d'écran de l'app |
-| **Conseils parents** | Vendre les ebooks indirectement | Extrait d'ebook, "le saviez-vous", témoignage fictif type "avant/après" |
-| **Révisions BAC** | Attirer les élèves, montrer l'outil IA | Correction d'un exercice en accéléré, astuce de méthode, sujet du jour |
+| Pilier | Cible | Objectif | Fréquence |
+|---|---|---|---|
+| **Révisions BAC** | Élèves 1ère/Terminale, tous niveaux | Pousser vers l'outil de correction IA + l'archive de sujets | **Quotidien** |
+| **App enfants** | Parents d'enfants CP-CE1 | Faire connaître/essayer l'app maths | 2-3x/semaine |
+| **Ebooks parents** | Parents | Vendre les ebooks indirectement | 1-2x/semaine |
+| **Engagement** | Tous | Créer de l'interaction (questions, sondages) | 1x/semaine |
 
-### Fréquence recommandée pour démarrer
+### 3.2 Message clé pour le pilier BAC (à répéter sous toutes les formes)
+> Élève en 1ère, Terminale, ou n'importe quel niveau équivalent : envoie
+> une photo ou un PDF de **n'importe quel sujet**, notre IA le corrige en
+> détail, étape par étape, gratuitement.
 
-- **Instagram** : 3 posts/semaine + stories régulières
-- **TikTok** : 3-4 vidéos/semaine (format court, quitte à réutiliser le même contenu qu'Instagram Reels)
-- **Facebook** : 2-3 posts/semaine (peut reprendre le contenu Instagram)
-- **YouTube** : 1 vidéo/semaine pour commencer (Shorts + 1 format plus long par mois)
-
-### Astuce de démarrage
-Filme/crée le contenu une seule fois en format vertical court (15-60s), puis
-republie la même vidéo sur TikTok, Instagram Reels, et YouTube Shorts. Pas
-besoin de trois contenus différents au départ.
+### 3.3 Astuce de production
+Filme/crée le contenu une seule fois en format vertical court (15-60s),
+puis republie sur TikTok, Instagram Reels, et YouTube Shorts.
 
 ---
 
-## Premiers posts prêts à l'emploi
+## 4. Calendrier de publication — Facebook (Jonas AI)
 
-### Calendrier de publication Facebook (Jonas AI, via Meta Business Suite)
+### 4.1 Vague 1 (déjà publiée/programmée via le script d'automatisation)
 
-| # | Date | Post |
-|---|---|---|
-| 1 | 13/07 | Post de lancement |
-| 2 | 15/07 | Astuce calcul (×5) |
-| 3 | 17/07 | Présentation de l'app |
-| 4 | 20/07 | Extrait ebook "50 astuces" |
-| 5 | 22/07 | BAC / outil IA |
-| 6 | 24/07 | Question engageante |
-| 7 | 27/07 | Témoignage parent |
-| 8 | 29/07 | Jeu maison |
+| # | Date | Post | Pilier |
+|---|---|---|---|
+| 1 | 13/07 | Lancement | Transversal |
+| 2 | 15/07 | Astuce calcul ×5 | App enfants |
+| 3 | 17/07 | Présentation app | App enfants |
+| 4 | 20/07 | Extrait ebook | Ebooks |
+| 5 | 22/07 | BAC / outil IA | BAC |
+| 6 | 24/07 | Question du jour | Engagement |
+| 7 | 27/07 | Témoignage parent | Ebooks |
+| 8 | 29/07 | Jeu maison | App enfants |
 
-Programmation : Meta Business Suite → "Create post" → flèche à côté de
-"Publish" → choisir la date/heure.
+### 4.2 Vague 2 — rythme quotidien, priorité BAC
 
-### Post de lancement (Jonas AI — Facebook)
+| # | Date | Post | Pilier |
+|---|---|---|---|
+| 9  | 30/07 | Envoie n'importe quel sujet (1ère/Term.) | **BAC** |
+| 10 | 31/07 | Astuce app enfants | App enfants |
+| 11 | 01/08 | Archive de sujets par pays | **BAC** |
+| 12 | 02/08 | Photo/PDF → correction rapide | **BAC** |
+| 13 | 03/08 | Jeu maison #2 | App enfants |
+| 14 | 04/08 | Le BAC approche, commence maintenant | **BAC** |
+| 15 | 05/08 | 9 pays couverts | **BAC** |
+| 16 | 06/08 | Extrait ebook positivité | Ebooks |
+| 17 | 07/08 | Toutes matières, pas que les maths | **BAC** |
+| 18 | 08/08 | Motivation révisions | **BAC** |
+| 19 | 09/08 | Astuce app enfants #2 | App enfants |
+| 20 | 10/08 | Rappel outil IA | **BAC** |
+| 21 | 11/08 | Question BAC (engagement) | **BAC** |
+| 22 | 12/08 | Dernier rappel : envoie ton sujet | **BAC** |
+
+Publication automatique via `marketing/scripts/publish-facebook.mjs` +
+`posts.json` (contient les 22 posts). Programmation : Meta Business Suite →
+"Create post" → flèche "Publish" → date, si publication manuelle préférée
+pour un post en particulier.
+
+---
+
+## 5. Bibliothèque de posts
+
+### 5.1 Pilier BAC — envoyer un sujet (répété/varié quotidiennement)
+
+**Variante 1 — appel direct**
 ```
-🎉 Jonas AI est en ligne !
+📸 Élève en 1ère, Terminale, ou niveau équivalent ?
 
-Une app de maths gratuite et ludique pour les enfants (CP-CE1) 🧮
-Des ebooks pratiques pour accompagner votre enfant 📚
-Et des ressources gratuites pour réviser le BAC en Afrique francophone,
-avec correction de sujets par IA 🎓
+Envoie-nous une photo ou un PDF de n'importe quel sujet — n'importe
+quelle matière, n'importe quel exercice — et reçois une correction
+détaillée, étape par étape, en quelques secondes. Gratuit.
 
-Lien dans la bio 👆
+Lien en bio, section BAC.
 ```
 
-### Post 2 — Astuce calcul (pilier "astuces maths enfants")
+**Variante 2 — archive de sujets**
+```
+🎓 Notre répertoire de sujets BAC couvre déjà 9 pays d'Afrique
+francophone (Sénégal, Côte d'Ivoire, Mali, Burkina Faso, Bénin, Togo,
+Guinée, Tchad, Congo) — tous vérifiés, tous gratuits.
+
++ notre IA corrige n'importe quel sujet que tu lui envoies.
+
+Lien en bio.
+```
+
+**Variante 3 — urgence/motivation**
+```
+⏳ Le BAC approche. Ne révise pas seul(e) dans le flou.
+
+Envoie ton sujet (photo ou PDF), on te le corrige en détail
+immédiatement — comme si tu avais un prof particulier disponible 24/7.
+
+Lien en bio, section BAC.
+```
+
+**Variante 4 — toutes matières**
+```
+🧠 Maths, physique, français, histoire-géo... notre outil de correction
+IA traite n'importe quelle matière, pas seulement les maths.
+
+Une photo, un PDF, et tu as ta correction détaillée. Essaie maintenant,
+lien en bio.
+```
+
+**Variante 5 — question engagement BAC**
+```
+👋 Question du jour pour les Terminale : c'est quoi la matière qui te
+fait le plus stresser pour le BAC ?
+
+Dis-le en commentaire — on a peut-être un sujet ou une astuce pour toi 😉
+```
+
+**Variante 6 — dernier rappel**
+```
+🔁 Rappel : n'importe quel sujet, n'importe quel niveau (1ère,
+Terminale, équivalents) — envoie-le en photo ou PDF et reçois ta
+correction en quelques secondes.
+
+C'est gratuit. Lien en bio, section BAC.
+```
+
+### 5.2 Pilier App enfants
+
 ```
 💡 Astuce de calcul : pour multiplier un nombre par 5, multiplie-le par 10
 puis divise par 2 !
@@ -126,7 +206,6 @@ Exemple : 14 × 5 → 14 × 10 = 140 → 140 ÷ 2 = 70 ✅
 Plus d'astuces comme ça dans notre app de maths, gratuite pour le niveau 1 !
 ```
 
-### Post 3 — Présentation app (démo)
 ```
 🧮 Notre app de maths en 30 secondes :
 
@@ -138,7 +217,15 @@ Plus d'astuces comme ça dans notre app de maths, gratuite pour le niveau 1 !
 Testez le niveau 1 gratuitement, lien en bio.
 ```
 
-### Post 4 — Extrait ebook (pilier "conseils parents")
+```
+🎲 Jeu du jour, zéro matériel : lancez un dé deux fois et additionnez les
+résultats. Le premier à 50 points a gagné !
+
+20 jeux comme celui-ci dans notre ebook, à prix mini 😉 Lien en bio.
+```
+
+### 5.3 Pilier Ebooks / parents
+
 ```
 📚 Extrait de notre ebook "50 astuces pour aider son enfant en calcul" :
 
@@ -148,26 +235,6 @@ comme croyance."
 L'attitude compte souvent plus que la méthode. Ebook complet en lien bio 👆
 ```
 
-### Post 5 — BAC / outil IA (pilier "révisions BAC")
-```
-🎓 Tu révises le BAC ? Envoie-nous une photo de n'importe quel exercice et
-reçois une correction détaillée, étape par étape, en quelques secondes.
-
-+ un répertoire de vrais sujets d'examens classés par pays, gratuit.
-
-Lien en bio, section BAC.
-```
-
-### Post 6 — Question engageante (pilier transversal)
-```
-👋 Question du jour : à quel âge as-tu appris tes tables de
-multiplication ?
-
-Dis-nous en commentaire, et si ton enfant galère encore, on a peut-être
-la solution 😉
-```
-
-### Post 7 — Témoignage/mise en situation (pilier "conseils parents")
 ```
 "Mon fils détestait les maths jusqu'à ce qu'on transforme ça en jeu
 pendant les courses : compter la monnaie, comparer les prix..."
@@ -176,23 +243,22 @@ Toutes nos astuces du quotidien sont dans l'ebook "50 astuces pour aider
 son enfant en calcul" 📚
 ```
 
-### Post 8 — Jeu maison (pilier "astuces maths enfants")
-```
-🎲 Jeu du jour, zéro matériel : lancez un dé deux fois et additionnez les
-résultats. Le premier à 50 points a gagné !
+### 5.4 Pilier Engagement
 
-20 jeux comme celui-ci dans notre ebook gratuit... enfin, pas gratuit,
-mais à prix mini 😉 Lien en bio.
+```
+👋 Question du jour : à quel âge as-tu appris tes tables de
+multiplication ?
+
+Dis-nous en commentaire, et si ton enfant galère encore, on a peut-être
+la solution 😉
 ```
 
 ---
 
-## Prochaines étapes suggérées
+## 6. Prochaines étapes
 
-1. Créer les comptes avec le handle `@mathkidsetcie` (vérifier la
-   disponibilité sur chaque plateforme avant).
-2. Utiliser les bios ci-dessus.
-3. Publier le post de lancement en premier partout.
-4. Programmer les posts 2 à 8 sur 2-3 semaines.
-5. Une fois le site déployé, remplacer "lien en bio" par l'URL réelle
-   partout (bios + posts).
+1. ✅ Page Facebook "Jonas" créée, connectée à Meta Business Suite
+2. ✅ Automatisation Facebook opérationnelle (`marketing/scripts/`)
+3. ⬜ Créer Instagram, TikTok, YouTube avec le nom "MathKids & Cie"
+4. ⬜ Une fois le site déployé, remplacer "lien en bio" par l'URL réelle
+   partout (bios + posts + `posts.json`)
