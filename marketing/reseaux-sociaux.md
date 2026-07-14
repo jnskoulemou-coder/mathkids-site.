@@ -12,6 +12,7 @@ niveaux équivalents)**. Ce document est organisé en sections indépendantes
 - **Facebook** : "Jonas AI"
 - **Autres plateformes (Instagram, TikTok, YouTube)** : "MathKids & Cie"
 - Handle suggéré : `@mathkidsetcie` (à vérifier disponibilité)
+- **Site en ligne** : https://mathkids-site.vercel.app
 
 ---
 
@@ -50,7 +51,7 @@ francophone, avec un répertoire de sujets d'examens vérifiés et un outil
 de correction automatique par IA pour s'entraîner sur n'importe quel
 exercice.
 
-Site : [ton URL une fois déployé]
+Site : https://mathkids-site.vercel.app
 ```
 
 ### 2.5 YouTube — description de chaîne
@@ -61,9 +62,9 @@ Sur cette chaîne : astuces de calcul pour enfants, méthodes de révision
 pour le BAC, et présentation de nos outils (app de maths, ebooks, et
 correction de sujets par IA).
 
-📱 App maths (CP-CE1) : [lien]
-📚 Ebooks pour parents : [lien]
-🎓 Révisions BAC Afrique : [lien]
+📱 App maths (CP-CE1) : https://mathkids-site.vercel.app/maths
+📚 Ebooks pour parents : https://mathkids-site.vercel.app/ebooks
+🎓 Révisions BAC Afrique : https://mathkids-site.vercel.app/bac
 
 Nouvelles vidéos chaque semaine.
 ```
@@ -259,6 +260,11 @@ la solution 😉
 
 1. ✅ Page Facebook "Jonas" créée, connectée à Meta Business Suite
 2. ✅ Automatisation Facebook opérationnelle (`marketing/scripts/`)
-3. ⬜ Créer Instagram, TikTok, YouTube avec le nom "MathKids & Cie"
-4. ⬜ Une fois le site déployé, remplacer "lien en bio" par l'URL réelle
-   partout (bios + posts + `posts.json`)
+3. ✅ Site déployé : https://mathkids-site.vercel.app
+4. ⬜ Créer Instagram, TikTok, YouTube avec le nom "MathKids & Cie" — mettre
+   la vraie URL directement dans le champ "lien" du profil (bio Instagram,
+   bio TikTok, section "Liens" YouTube)
+5. ⬜ Mettre à jour le champ **"Site web"** de la Page Facebook (Paramètres
+   → Infos sur la Page) avec https://mathkids-site.vercel.app — c'est la
+   destination réelle derrière "lien en bio" utilisé dans les posts déjà
+   programmés
