@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import ChatWidget from "@/components/ChatWidget";
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -41,6 +42,7 @@ export default function RootLayout({
         <footer className="border-t border-slate-200 py-6 text-center text-sm text-slate-500">
           © {new Date().getFullYear()} MathKids &amp; Cie — Tous droits réservés
         </footer>
+        <ChatWidget />
       </body>
     </html>
   );
