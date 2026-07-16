@@ -1,17 +1,16 @@
-# Jonas AI / MathKids & Cie — Kit réseaux sociaux
+# Réussite Plus — Kit réseaux sociaux
 
-Site multi-fonction avec 3 volets : **App Maths (enfants)**, **Boutique
-Ebooks (parents)**, **BAC Afrique francophone (élèves 1ère/Terminale et
-niveaux équivalents)**. Ce document est organisé en sections indépendantes
-— une par usage.
+Site multi-fonction, 100% gratuit, avec 3 volets : **Exercices pour tous
+les niveaux** (primaire à Terminale, toutes matières), **Boutique Ebooks
+gratuits**, **BAC pour les francophones du monde entier**. Ce document est
+organisé en sections indépendantes — une par usage.
 
 ---
 
 ## 1. Identité de marque
 
-- **Facebook** : "Jonas AI"
-- **Autres plateformes (Instagram, TikTok, YouTube)** : "MathKids & Cie"
-- Handle suggéré : `@mathkidsetcie` (à vérifier disponibilité)
+- **Nom unifié partout** : "Réussite Plus" (Facebook, Instagram, TikTok, YouTube)
+- Handle suggéré : `@reussiteplus` (à vérifier disponibilité)
 - **Site en ligne** : https://mathkids-site.vercel.app
 
 ---
@@ -20,51 +19,54 @@ niveaux équivalents)**. Ce document est organisé en sections indépendantes
 
 ### 2.1 Instagram (150 caractères max)
 ```
-🧮 App de maths ludique pour enfants
-📚 Ebooks pratiques pour parents
-🎓 Révisions BAC Afrique francophone
-👇 Tout est ici
+🎓 Exercices gratuits, CP à Terminale
+📚 Ebooks gratuits pour parents
+🌍 BAC pour tous les francophones
+👇 Tout est ici, 100% gratuit
 ```
 
 ### 2.2 TikTok (80 caractères max)
 ```
-Maths pour enfants 🧮 | Ebooks parents 📚 | Révisions BAC 🎓
+Exercices gratuits CP-Terminale 🎓 | Toutes matières | 100% gratuit
 ```
 
 ### 2.3 Facebook — description courte
 ```
-Jonas AI : app de maths ludique pour enfants (CP-CE1), ebooks pratiques pour parents, et révisions BAC gratuites en Afrique francophone — envoie n'importe quel sujet en photo ou PDF, notre IA le corrige en détail.
+Réussite Plus : exercices gratuits pour tous les niveaux (CP à Terminale), toutes matières — envoie n'importe quel sujet en photo ou PDF, notre IA le corrige en détail. Ebooks gratuits inclus.
 ```
 
 ### 2.4 Facebook — section "À propos" détaillée
 ```
-Jonas AI est une plateforme éducative pensée pour trois publics :
+Réussite Plus est une plateforme éducative 100% gratuite, pour tous les
+niveaux :
 
-🧮 Les enfants du primaire, avec une app de maths gratuite et ludique
-(niveau CP et CE1, avec progression et récompenses).
+🎓 Primaire (CP à CM2) : un quiz interactif de méthode de calcul, adapté
+à chaque niveau.
 
-📚 Les parents, avec des ebooks pratiques pour accompagner leurs enfants
-au quotidien.
+📘 Collège et Lycée (6e à Terminale) : envoie une photo ou un PDF de
+n'importe quel exercice, dans n'importe quelle matière (maths,
+physique-chimie, SVT, français, histoire-géo, philosophie), et reçois
+une correction détaillée par IA.
 
-🎓 Les élèves de 1ère, Terminale (BAC) et niveaux équivalents en Afrique
-francophone, avec un répertoire de sujets d'examens vérifiés et un outil
-de correction automatique par IA pour s'entraîner sur n'importe quel
-exercice.
+📚 Des ebooks pratiques et gratuits pour les parents.
+
+🌍 Une section BAC pour les francophones du monde entier, avec un
+répertoire de sujets vérifiés par pays.
 
 Site : https://mathkids-site.vercel.app
 ```
 
 ### 2.5 YouTube — description de chaîne
 ```
-MathKids & Cie — apprendre les maths sans stress, du CP au Baccalauréat.
+Réussite Plus — apprendre sans stress, du CP à la Terminale, 100% gratuit.
 
-Sur cette chaîne : astuces de calcul pour enfants, méthodes de révision
-pour le BAC, et présentation de nos outils (app de maths, ebooks, et
+Sur cette chaîne : astuces de calcul rapide, méthodes de révision pour
+le BAC, et présentation de nos outils (exercices par niveau, ebooks, et
 correction de sujets par IA).
 
-📱 App maths (CP-CE1) : https://mathkids-site.vercel.app/maths
-📚 Ebooks pour parents : https://mathkids-site.vercel.app/ebooks
-🎓 Révisions BAC Afrique : https://mathkids-site.vercel.app/bac
+🎓 Exercices par niveau : https://mathkids-site.vercel.app/exercices
+📚 Ebooks gratuits : https://mathkids-site.vercel.app/ebooks
+🌍 BAC international : https://mathkids-site.vercel.app/bac
 
 Nouvelles vidéos chaque semaine.
 ```
