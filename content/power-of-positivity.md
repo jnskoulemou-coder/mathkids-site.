@@ -1,7 +1,7 @@
 ---
 title: "Power of Positivity"
 subtitle: "Cultiver un état d'esprit positif, jour après jour"
-author: "MathKids & Cie"
+author: "Réussite Plus"
 ---
 
 > *"The more you are thankful, the more you attract things to be thankful

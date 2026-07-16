@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 
-type Operation = "+" | "-" | "×";
+type Operation = "+" | "-" | "×" | "÷";
 
 type Question = {
   a: number;
@@ -27,8 +27,14 @@ function generateQuestion(minNum: number, maxNum: number, operations: Operation[
     a = randomInt(1, 10);
     b = randomInt(1, 10);
   }
+  if (op === "÷") {
+    b = randomInt(2, 10);
+    const quotient = randomInt(1, 10);
+    a = b * quotient;
+  }
 
-  const answer = op === "+" ? a + b : op === "-" ? a - b : a * b;
+  const answer =
+    op === "+" ? a + b : op === "-" ? a - b : op === "×" ? a * b : a / b;
   return { a, b, op, answer };
 }
 

@@ -1,6 +1,6 @@
 ---
 title: "50 astuces pour aider son enfant en calcul"
-author: "MathKids & Cie"
+author: "Réussite Plus"
 ---
 
 # Introduction

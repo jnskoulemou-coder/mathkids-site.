@@ -1,6 +1,6 @@
 ---
 title: "20 jeux de maths à faire à la maison"
-author: "MathKids & Cie"
+author: "Réussite Plus"
 ---
 
 # Introduction
