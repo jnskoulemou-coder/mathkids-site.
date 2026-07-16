@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getLevel, SUBJECTS_BY_CYCLE } from "@/lib/levels";
+import { CALCUL_RAPIDE_VIDEOS } from "@/lib/videos";
 
 export default async function NiveauPage({
   params,
@@ -35,6 +36,39 @@ export default async function NiveauPage({
           </Link>
         ))}
       </div>
+
+      {level.cycle === "primaire" && (
+        <div className="mt-16">
+          <h2 className="text-lg font-semibold text-slate-700 mb-4">
+            Vidéos — calcul rapide
+          </h2>
+          <div className="grid sm:grid-cols-2 gap-6">
+            {CALCUL_RAPIDE_VIDEOS.map((video) => (
+              <div
+                key={video.youtubeId}
+                className="bg-white rounded-2xl border border-slate-200 overflow-hidden"
+              >
+                <div className="aspect-video">
+                  <iframe
+                    className="w-full h-full"
+                    src={`https://www.youtube.com/embed/${video.youtubeId}`}
+                    title={video.title}
+                    allowFullScreen
+                  />
+                </div>
+                <div className="p-4">
+                  <p className="font-medium text-sm text-slate-900">
+                    {video.title}
+                  </p>
+                  <p className="text-xs text-slate-500 mt-1">
+                    {video.channel}
+                  </p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
     </div>
   );
 }
